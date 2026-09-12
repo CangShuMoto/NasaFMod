@@ -26,4 +26,4 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 ### Stage 2
 - Motor
 - Hinged Back
-- 
+- TBD, expensive ash
