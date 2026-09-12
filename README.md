@@ -18,7 +18,7 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - Shutter Release
 - Rewind Selector
 - Advance Lever Overmould
-- Anti-Reflective Exterior Coatings
+- [Anti-Reflective Exterior Coatings](/ItemDirectory/Anti-Reflective Exterior Coatings)
 - White Enamel Engraving Paint
 - Instruction Decal
 - Cold Shoe
