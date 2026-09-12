@@ -26,7 +26,7 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - Optics coatings(MAYBE)
   - Lens coating
   - Viewfinder coating
-
+- Focus and aperture horns
 ### Skylab
 - Motor
 - Hinged Back
