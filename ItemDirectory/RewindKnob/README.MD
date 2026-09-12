@@ -16,7 +16,7 @@ There are a couple ways to approach this:
 1. make a new cover plate
 2. Fill the gap with something
 
-The top covers are made from sheet brass. In order to make a new one, i would need to make a mould and then press it OR send it off to be made.
+The top covers are made from sheet brass. In order to make a new one, i would need to make a mould and then press it OR send it off to be made. Then I would need to solder on the front bit.
 
 I could also, in the short term, fill the gap with something 3d printed. 
 
