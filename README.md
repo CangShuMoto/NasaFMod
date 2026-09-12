@@ -22,6 +22,9 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - Instruction Decal
 - Cold Shoe
 - Vulcanite Removal
+- Optics coatings(MAYBE)
+  - Lens coating
+  - Viewfinder coating
 
 ### Skylab
 - Motor
