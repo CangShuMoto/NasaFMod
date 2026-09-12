@@ -6,7 +6,8 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 
 ## Mod Items
 ### Apollo 15
-- Rewind Knob
+
+- [Rewind Knob](/ItemDirectory/RewindKnob)
    - Hot Shoe Delete
    - Knob
 - Shot Counter
