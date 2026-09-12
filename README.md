@@ -7,3 +7,5 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 ## Mod Items
 - Rewind Knob
 - Shot Counter
+  - Cover
+  - Dial
