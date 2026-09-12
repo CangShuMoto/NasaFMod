@@ -5,7 +5,7 @@ Collection of modifications to attempt to recreate the cameras developed for NAS
 This project is centered around recreating the Nikon F "FTN" or "Photonic" cameras built for NASA for the Skylab and late Apollo missions. This requires several different modifications and models, which I will document here.
 
 ## Mod Items
-### Stage 1
+### Skylab
 - Rewind Knob
    - Hot Shoe Delete
    - Knob
@@ -23,7 +23,7 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - Cold Shoe
 - Vulcanite Removal
 
-### Stage 2
+### EVA
 - Motor
 - Hinged Back
 - TBD, expensive ash
