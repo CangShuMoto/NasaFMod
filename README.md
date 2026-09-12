@@ -31,3 +31,8 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - Motor
 - Hinged Back
 - TBD, expensive ash
+
+### PHOTO CREDITS
+- Richard Haw
+- Leitz Auctions
+- Timm Chapman
