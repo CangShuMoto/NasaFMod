@@ -32,6 +32,11 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - Hinged Back
 - TBD, expensive ash
 
+## General design notes and specs
+-Knurling: ~40TPI or 0.5TPMM straight tooth
+
+
+
 ### PHOTO CREDITS
 - Richard Haw
 - Leitz Auctions
