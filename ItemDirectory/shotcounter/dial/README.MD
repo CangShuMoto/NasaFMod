@@ -6,4 +6,4 @@
 - distance between shot ticks ~ 1.2mm
 
 ## math yay
-$arcsin(\frac{Opp}{Hyp})=sin^{-1}(\frac{1.2}{7.8})=8.85^\circ
+$arcsin(\frac{Opp}{Hyp})=sin^{-1}(\frac{1.2}{7.8})=8.85^\circ$
