@@ -6,3 +6,5 @@
 
 ## math yay
 $arcsin(\frac{Opp}{Hyp})=sin^{-1}(\frac{1.2}{7.8})=8.85^\circ$
+
+So, there are 8.85 degrees per tick
