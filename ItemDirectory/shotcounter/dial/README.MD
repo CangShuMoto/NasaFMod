@@ -1,4 +1,3 @@
-\usepackage{mathtools}
 # Shot Counter Dial
 ## Measurements & Specs
 - D = 15.6mm
