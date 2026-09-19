@@ -4,4 +4,4 @@ I suspect it also consists of a modified advance lever, as some of the geometry 
 
 ## Notable features
 - ergonomic cutout to allow operation of the advance/rewind selection knob
-- 
+- Probably attached with screws from the underside of the lever
