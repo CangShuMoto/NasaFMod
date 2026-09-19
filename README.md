@@ -17,7 +17,7 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - Mirror Lock-Up Knob
 - Shutter Release
 - Rewind Selector
-- Advance Lever Overmould
+- [Advance Lever Overmould](/ItemDirectory/advancelever)
 - [Anti-Reflective Exterior Coatings](ItemDirectory/AntiReflectiveExteriorCoatings)
 - White Enamel Engraving Paint
 - Instruction Decal
