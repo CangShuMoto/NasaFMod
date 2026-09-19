@@ -1,5 +1,5 @@
-# Rewind Knob
-This is the directory for the rewind knob section of the mod.
+# Item Directory
+All of the item folders will be stored in here!
 
 
 
