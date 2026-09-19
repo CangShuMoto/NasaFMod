@@ -34,6 +34,7 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 
 ## General design notes and specs
 -Knurling: ~40TPI or 0.5TPMM straight tooth
+-Materials: Ideally 6000 series aluminum
 
 
 
