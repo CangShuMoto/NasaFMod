@@ -12,5 +12,5 @@ $arcsin(\frac{Opp}{Hyp})=arcsin(\frac{1.2}{7.8})=8.85^\circ$
 So, there are 8.85 degrees per tick, and there are 37 ticks on a standard dial(36 shots plus the 0). The rotation from 0 to 36 will take 327.4 degrees.
 
 ### Disclaimer
-The total rotation will actually be more than that, as it does not start at 0.
+The total rotation will actually be more than that, as it does not start at 0. It takes 2 or 3 cycles of the shutter to reach the 0 tick.
 
