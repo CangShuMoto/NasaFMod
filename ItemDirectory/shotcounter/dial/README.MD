@@ -7,7 +7,7 @@
 - total degree rotation range = 327.4
 - Either Engraved or printed
 - 24 and 36 shot roll length indicator
-## Nasa Dial
+## Nasa inspired Dial
 The actual dial likely has a different drive gear, moving only 3 or 4 degrees each cycle. We won't be doing this, as our rolls of film do not contain 72 frames.
 
 - 36 Shot dial
