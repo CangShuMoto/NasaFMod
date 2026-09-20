@@ -1,10 +1,21 @@
 # Shot Counter Dial
-## Measurements & Specs
+## Stock Dial Measurements & Specs
 - D = 15.6mm
 - r = 7.8mm
 - distance between shot ticks ~ 1.2mm
 - degrees per shot = 8.85
 - total degree rotation range = 327.4
+- Either Engraved or printed
+- 24 and 36 shot roll length indicator
+## Nasa Dial
+The actual dial likely has a different drive gear, moving only 3 or 4 degrees each cycle. We won't be doing this, as our rolls of film do not contain 72 frames.
+
+- 36 Shot dial
+- Even numbers only
+- Black and white
+- Retain stock degree per shot
+- No roll length indicator
+
 
 ## math yay
 $arcsin(\frac{Opp}{Hyp})=arcsin(\frac{1.2}{7.8})=8.85^\circ$
