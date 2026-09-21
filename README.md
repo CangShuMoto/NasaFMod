@@ -12,7 +12,7 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
    - Knob
 - Shot Counter
   - Cover
-  - Dial
+  - [Dial](/ItemDirectory/shotcounter/dial)
 - Viewfinder Release
 - Mirror Lock-Up Knob
 - Shutter Release
