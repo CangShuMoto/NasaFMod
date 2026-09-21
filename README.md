@@ -23,6 +23,7 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - Instruction Decal
 - Cold Shoe
 - Vulcanite Removal
+- Metal Cover Panels
 - Optics coatings(MAYBE)
   - Lens coating
   - Viewfinder coating
@@ -33,8 +34,8 @@ This project is centered around recreating the Nikon F "FTN" or "Photonic" camer
 - TBD, expensive ash
 
 ## General design notes and specs
--Knurling: ~40TPI or 0.5TPMM straight tooth
--Materials: Ideally 6000 series aluminum
+- Knurling: ~40TPI or 0.5TPMM straight tooth
+- Materials: Ideally 6000 series aluminum
 
 
 
